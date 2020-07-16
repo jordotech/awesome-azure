@@ -16,7 +16,9 @@ I would recommend everone getting started with Azure to take the [Azure Fundamen
 ## Developer Tools
 
 * [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) - Desktop client to easily manage Storage anywhere from Windows, MacOS, and Linux
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) - Desktop client to manage Databases anywhere from Windows, MacOs and Linux
 * [Azure Resource Explorer](https://resources.azure.com/) - Allows you to view and edit Azure resource definitions directly from their JSON manfinests; effectively bypassing the API.
+
 
 ## Microsoft Azure Links
 * [Microsoft Azure Homepage](https://azure.microsoft.com/en-us/) - Visit Microsoft's web page describing the services they provide in Azure.
